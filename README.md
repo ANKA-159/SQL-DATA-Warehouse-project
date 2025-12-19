@@ -77,3 +77,4 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
+I am a Data Business Analyst and Computer Science Engineering graduate, currently working on data analytics and data governance topics. This project reflects my hands-on experience in data warehousing, SQL, and analytical modeling, bridging technical implementation with business needs.
